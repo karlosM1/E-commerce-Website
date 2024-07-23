@@ -10,3 +10,5 @@ This is a comprehensive e-commerce website offering a wide range of products for
 - Featured Section: Highlighted promotions and featured products.
 - Product Listings: Display of product details, including images, descriptions, prices, and add-to-cart functionality.
 - New Arrivals: Showcase of the latest products available on the website.
+
+## TO BE CONTINUE
